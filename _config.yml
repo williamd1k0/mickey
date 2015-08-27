@@ -9,9 +9,9 @@ relative_permalinks: true
 
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
+locale:              pt_br # eg. en_us
 name:				         site name
-title:               site title
+title:               TheTimeTunnel
 tagline:             'tagline'
 description:         'description'
 url:                 site url
