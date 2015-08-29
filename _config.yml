@@ -14,20 +14,20 @@ name:				         site name
 title:               TheTimeTunnel
 tagline:             'tagline'
 description:         'description'
-url:                 site url
-rss:                 rss feed url
+url:                 https://thetimetunnel.github.io/
+rss:                 feed.xml
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
 baseurl_javascripts: '/assets/javascripts/'
-icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
+icon:                '/assets/imagesg/icon.png' # /assets/img/icon.png [best 300px X 300px]
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
-  url:            	 your site url
-  facebook:          username
+  name:           	 William Tumeo
+  url:            	 https://thetimetunnel.github.io/
+  facebook:          williamd1k0
   twitter:           username
   google_plus:       username
   linkedin:          username

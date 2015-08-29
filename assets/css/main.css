@@ -7,6 +7,7 @@ html {
 
 body {
   margin: 0;
+  background-color: black;
 }
 
 article,
@@ -1673,7 +1674,7 @@ body {
 }
 .sidebar-recentPosts-image-wrapper img {
   min-height: 4.5rem;
-  width: 150%;
+  width: 100%;
   height: auto;
   position: relative;
   left: 50%;
@@ -1968,7 +1969,7 @@ body {
 
 .section--postsWrapper {
   width: 100%;
-  background: #f2f2f2;
+  background-color: #805198;
   padding-top: 0;
   position: relative;
   clear: both;
@@ -2077,7 +2078,8 @@ body {
   font-weight: 300;
 }
 .blockGroup-list .postArticle-image {
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
   background-position: center;
   padding-top: 100%;
   -webkit-transition-property: all, left, top, width;
