@@ -10,7 +10,7 @@ relative_permalinks: true
 # Setup
 timezone:            America/Sao_Paulo # eg. Asia/Kathmandu
 locale:              pt_br # eg. en_us
-name:				         site name
+name:				 TheTimeTunnel
 title:               TheTimeTunnel
 tagline:             'tagline'
 description:         'TheTimeTunnel | Development Team'
