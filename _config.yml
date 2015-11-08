@@ -8,12 +8,12 @@ permalink:           /:title
 relative_permalinks: true
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
+timezone:            America/Sao_Paulo # eg. Asia/Kathmandu
 locale:              pt_br # eg. en_us
 name:				         site name
 title:               TheTimeTunnel
 tagline:             'tagline'
-description:         'description'
+description:         'TheTimeTunnel | Development Team'
 url:                 https://thetimetunnel.github.io/
 rss:                 feed.xml
 baseurl:             '/'
@@ -22,18 +22,18 @@ baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
 baseurl_javascripts: '/assets/javascripts/'
 icon:                '/assets/imagesg/icon.png' # /assets/img/icon.png [best 300px X 300px]
-disqus:              disqus_shortname # get it on https://disqus.com/admin/
+disqus:              thetimetunnel # get it on https://disqus.com/admin/
 
 author:
   name:           	 William Tumeo
   url:            	 https://thetimetunnel.github.io/
   facebook:          williamd1k0
-  twitter:           username
-  google_plus:       username
-  linkedin:          username
-  dribbble:          username
+  twitter:           williamd1k0
+  google_plus:       +williamtumeo
+  #linkedin:          username
+  #dribbble:          username
   pinterest:         username
-  kiva:              username
+  #kiva:              username
 
 fb_admins:           your facebook profile id
 fb_appid:            your facebook app id

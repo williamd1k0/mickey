@@ -325,6 +325,13 @@ h6 {
   letter-spacing: -0.02em;
 }
 
+h3,
+h4,
+h5,
+h6 {
+    color: rgba(56, 21, 64, 0.9);
+}
+
 h1 {
   font-size: 3.999rem;
   line-height: 4.5rem;
@@ -1476,7 +1483,7 @@ body {
   padding: 30px 20px;
   font-family: "Roboto", sans-serif;
   font-size: 1rem;
-  background-color: #222222;
+  background-color: rgba(56, 21, 64, 0.9);
   z-index: 900;
   overflow-x: hidden;
   overflow-y: scroll;
@@ -2076,7 +2083,14 @@ body {
   display: block;
   margin-top: 0.75rem;
   font-weight: 300;
+  font-weight: bolder !important;
 }
+
+.blockGroup-list .postArticle-excerpt {
+    padding: 20px;
+    text-align: justify;
+}
+
 .blockGroup-list .postArticle-image {
   background-size: contain;
   background-repeat: no-repeat;
@@ -2446,7 +2460,7 @@ body {
 .modal-toggle-bubble {
   position: absolute;
   top: 0;
-  background-color: rgba(34, 34, 34, 0.9);
+  background-color: rgba(56, 21, 64, 0.9);
   -webkit-transform: scale(1);
   -webkit-transition: all 0.3s ease-out;
   z-index: 600;
